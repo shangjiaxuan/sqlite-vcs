@@ -1,0 +1,8 @@
+{
+	"master path": "C:/Users/shang/OneDrive/Desktop/test.sqlite3",
+	"target table": "Card",
+	"commit path": "C:/Users/shang/OneDrive/Desktop/mega-mira.sqlte3.db",
+	"commit table": "Card",
+	"index column": "ID",
+	"conflict prefix": "conflict"
+}
